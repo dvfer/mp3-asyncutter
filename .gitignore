@@ -4,3 +4,4 @@ tests/files/cut/
 demo/
 yarn.lock
 package-lock.json
+*-out.mp3
